@@ -1,0 +1,106 @@
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\csc.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\vbc.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\BookService.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\BookService.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\BookService.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\EntityFramework.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Http.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Razor.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.WebPages.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\WebGrease.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\EntityFramework.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Http.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.Razor.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.WebPages.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\obj\Debug\BookService.Migrations.Inicial.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\obj\Debug\BookService.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\obj\Debug\BookService.dll
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\obj\Debug\BookService.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\BookService\BookService\obj\Debug\BookService.Migrations.AddBooks.resources
+C:\Code\BookService\BookService\bin\roslyn\csc.exe
+C:\Code\BookService\BookService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Code\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Code\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Code\BookService\BookService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Code\BookService\BookService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Code\BookService\BookService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Code\BookService\BookService\bin\roslyn\System.Collections.Immutable.dll
+C:\Code\BookService\BookService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Code\BookService\BookService\bin\roslyn\vbc.exe
+C:\Code\BookService\BookService\bin\roslyn\VBCSCompiler.exe
+C:\Code\BookService\BookService\bin\roslyn\VBCSCompiler.exe.config
+C:\Code\BookService\BookService\bin\BookService.dll.config
+C:\Code\BookService\BookService\bin\BookService.dll
+C:\Code\BookService\BookService\bin\BookService.pdb
+C:\Code\BookService\BookService\bin\Antlr3.Runtime.dll
+C:\Code\BookService\BookService\bin\EntityFramework.dll
+C:\Code\BookService\BookService\bin\EntityFramework.SqlServer.dll
+C:\Code\BookService\BookService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Code\BookService\BookService\bin\Microsoft.Web.Infrastructure.dll
+C:\Code\BookService\BookService\bin\Newtonsoft.Json.dll
+C:\Code\BookService\BookService\bin\System.Net.Http.Formatting.dll
+C:\Code\BookService\BookService\bin\System.Web.Helpers.dll
+C:\Code\BookService\BookService\bin\System.Web.Http.dll
+C:\Code\BookService\BookService\bin\System.Web.Http.WebHost.dll
+C:\Code\BookService\BookService\bin\System.Web.Mvc.dll
+C:\Code\BookService\BookService\bin\System.Web.Optimization.dll
+C:\Code\BookService\BookService\bin\System.Web.Razor.dll
+C:\Code\BookService\BookService\bin\System.Web.WebPages.Deployment.dll
+C:\Code\BookService\BookService\bin\System.Web.WebPages.dll
+C:\Code\BookService\BookService\bin\System.Web.WebPages.Razor.dll
+C:\Code\BookService\BookService\bin\WebGrease.dll
+C:\Code\BookService\BookService\bin\EntityFramework.xml
+C:\Code\BookService\BookService\bin\EntityFramework.SqlServer.xml
+C:\Code\BookService\BookService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Code\BookService\BookService\bin\Newtonsoft.Json.xml
+C:\Code\BookService\BookService\bin\System.Net.Http.Formatting.xml
+C:\Code\BookService\BookService\bin\System.Web.Helpers.xml
+C:\Code\BookService\BookService\bin\System.Web.Http.xml
+C:\Code\BookService\BookService\bin\System.Web.Http.WebHost.xml
+C:\Code\BookService\BookService\bin\System.Web.Mvc.xml
+C:\Code\BookService\BookService\bin\System.Web.Optimization.xml
+C:\Code\BookService\BookService\bin\System.Web.Razor.xml
+C:\Code\BookService\BookService\bin\System.Web.WebPages.xml
+C:\Code\BookService\BookService\bin\System.Web.WebPages.Deployment.xml
+C:\Code\BookService\BookService\bin\System.Web.WebPages.Razor.xml
+C:\Code\BookService\BookService\bin\Antlr3.Runtime.pdb
+C:\Code\BookService\BookService\obj\Debug\BookService.csprojResolveAssemblyReference.cache
+C:\Code\BookService\BookService\obj\Debug\BookService.Migrations.Inicial.resources
+C:\Code\BookService\BookService\obj\Debug\BookService.Migrations.AddBooks.resources
+C:\Code\BookService\BookService\obj\Debug\BookService.csproj.GenerateResource.Cache
+C:\Code\BookService\BookService\obj\Debug\BookService.dll
+C:\Code\BookService\BookService\obj\Debug\BookService.pdb
